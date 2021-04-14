@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/item1"
+        android:icon="@drawable/ic_baseline_settings_system_daydream_24"
+        android:title="Add-User"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/item2"
+        android:icon="@drawable/ic_baseline_settings_system_daydream_24"
+        android:title="Add-User"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item3"
+        android:icon="@drawable/ic_baseline_settings_system_daydream_24"
+        android:title="GetAccount Infos/Update"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item4"
+        android:icon="@drawable/ic_baseline_settings_system_daydream_24"
+        android:title="GetAccount Infos/Delete"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/item5"
+        android:icon="@drawable/ic_baseline_settings_system_daydream_24"
+        android:title="GetUsers Solde>Credit"
+        app:showAsAction="never"/>
+
+
+
+</menu>
